@@ -1,22 +1,23 @@
-Animated Portfolio Website
+AI-Powered Interview Preparation Platform (MERN + AI)
 
 🔗 **Live Demo:**  
-https://animated-portfolio-silk.vercel.app/
+(Frontend deployed / Backend API integrated)
 
 ### 📌 Description
-A modern, animated personal portfolio website showcasing projects, skills, and professional profile.
+An **AI-based Interview Preparation Platform** designed to simulate technical interviews by generating questions, evaluating answers, and providing structured feedback.
 
 ### ✨ Key Features
-- Smooth animations and transitions  
-- Modern UI/UX design principles  
-- Fully responsive layout  
-- Clean and minimal presentation  
+- Role-based authentication (Candidate / Recruiter)  
+- Interview question generation and evaluation flow  
+- AI service abstraction with fallback mock responses  
+- Interview history and performance tracking  
 
 ### 🛠 Tech Stack
 - React.js  
-- Tailwind CSS  
-- Framer Motion  
-- Vercel
+- Node.js, Express.js  
+- MongoDB  
+- JWT Authentication  
+- OpenAI API (AI integration layer, mocked during development)
 
 
 # React + Vite
