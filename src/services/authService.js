@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = "https://ai-interview-platform-backend-1.onrender.com";
+const API = "https://ai-interview-platform-backend-1.onrender.com/api/auth";
 
 export const loginUser = (data) =>
   axios.post(`${API}/login`, data);
