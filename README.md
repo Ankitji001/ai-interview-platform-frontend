@@ -1,3 +1,24 @@
+Animated Portfolio Website
+
+🔗 **Live Demo:**  
+https://animated-portfolio-silk.vercel.app/
+
+### 📌 Description
+A modern, animated personal portfolio website showcasing projects, skills, and professional profile.
+
+### ✨ Key Features
+- Smooth animations and transitions  
+- Modern UI/UX design principles  
+- Fully responsive layout  
+- Clean and minimal presentation  
+
+### 🛠 Tech Stack
+- React.js  
+- Tailwind CSS  
+- Framer Motion  
+- Vercel
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
